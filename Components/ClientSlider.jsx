@@ -99,7 +99,7 @@ const ClientSlider = () => {
                   <Image src={avatar1} alt='ogadispearlImg' />
                 </Flex>
                 <Text fontFamily="Satoshi" textAlign={"center"}>
-                  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                   do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 </Text>
               </Flex>
@@ -107,10 +107,10 @@ const ClientSlider = () => {
             <SwiperSlide>
               <Flex w={"278px"} h={"250px"} flexDir="column">
                 <Flex ml={"5.5rem"} my="1rem">
-                  <Image src={avatar2} />
+                  <Image src={avatar2} alt='avartar' />
                 </Flex>
                 <Text fontFamily="Satoshi" textAlign={"center"}>
-                  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                   do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 </Text>
               </Flex>
@@ -121,7 +121,7 @@ const ClientSlider = () => {
                   <Image src={avatar3} alt='ogadispearlImg' />
                 </Flex>
                 <Text fontFamily="Satoshi" textAlign={"center"}>
-                  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                   do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 </Text>
               </Flex>
